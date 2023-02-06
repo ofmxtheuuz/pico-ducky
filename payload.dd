@@ -3,4 +3,4 @@ GUI r
 STRING notepad
 ENTER
 DELAY 250
-STRING Hello World!
+STRING Hello World from Raspberry Pi Pico!
